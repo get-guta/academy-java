@@ -28,7 +28,7 @@ public class BookList {
 		//Display the first book from the list
 		
 		System.out.println(myBooks.get(0));
-		//System.out.println(myBooks.getFirst());
+		//System.out.println(myBooks.);
 		 myBooks.remove(1);
 		System.out.println("My Favourite Books are: "+ myBooks);
 
