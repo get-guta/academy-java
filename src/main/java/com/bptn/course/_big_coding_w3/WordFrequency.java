@@ -12,6 +12,8 @@ public class WordFrequency {
 
         // Create a Map to store the frequency of each word
         Map<String, Integer> wordFrequency = new HashMap<>();
+        
+   
 
         // Iterate through each word in the sentence
         for (String word : words) {

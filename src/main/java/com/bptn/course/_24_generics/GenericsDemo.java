@@ -16,5 +16,8 @@ public class GenericsDemo {
 		  printArray(intArray);
 		  printArray(stringArray);
 		 }
-
+		 
+		 
 }
+
+

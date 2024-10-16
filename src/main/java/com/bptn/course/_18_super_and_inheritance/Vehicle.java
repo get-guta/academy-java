@@ -23,8 +23,8 @@ public class Vehicle {
     public static void main(String[] args) {
         Car car = new Car("White", "Audi", "Chromecoloured");
         Bike bike = new Bike("Grey", "BMW", "Silvercoloured");
-        System.out.println(car.colour + " " + car.brand + " " + car.steeringWheel);
-        System.out.println(bike.colour + " " + bike.brand + " " + bike.bikeHandle);
+//        System.out.println(car.colour + " " + car.brand + " " + car.steeringWheel);
+//        System.out.println(bike.colour + " " + bike.brand + " " + bike.bikeHandle);
 
     }
 }
